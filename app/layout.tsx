@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Installation in detroit metro',
+  title: 'Sauna Installation in Metro Detroit',
   description: 'Premium Finnish saunas and ice baths for your home or business',
 };
 
