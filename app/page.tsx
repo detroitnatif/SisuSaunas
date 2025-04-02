@@ -57,6 +57,8 @@ export default function Home() {
               fill
               className="object-cover"
               priority
+              sizes="100vw"
+              quality={90}
             />
             <div className="absolute inset-0 bg-black bg-opacity-40" />
             <div className="absolute inset-0 flex items-center justify-center text-center text-white px-4">
