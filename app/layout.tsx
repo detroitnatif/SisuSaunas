@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sisu Saunas - Traditional Finnish Saunas & Ice Baths",
-  description: "Experience the authentic Finnish sauna tradition with Sisu Saunas. Discover the health benefits of sauna therapy and ice baths for optimal wellness.",
+  title: 'Installation in detroit metro',
+  description: 'Premium Finnish saunas and ice baths for your home or business',
 };
 
 export default function RootLayout({
