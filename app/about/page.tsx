@@ -26,11 +26,11 @@ export default function About() {
           </div>
           <div>
             <h2 className="text-3xl font-bold mb-6">Our Story</h2>
-            <p className="text-gray-600 mb-4">
-              Founded by Finnish expatriates in 2010, Sisu Saunas was born from a passion for authentic sauna culture and a desire to share its benefits with the world. The word &quot;sisu&quot; represents the Finnish spirit of determination, resilience, and courage - qualities we bring to every sauna we build.
+            <p className="text-gray-600 mb-6">
+              Founded in 2025 by three brothers - Raymond, Brendan, and Tyler Klimas - Sisu Saunas was born from a shared passion for wellness and traditional Finnish sauna culture. Our journey began with a simple mission: to bring the authentic Finnish sauna experience to homes across America.
             </p>
-            <p className="text-gray-600">
-              What started as a small family business has grown into a leading provider of premium saunas and ice baths, serving customers across the country while maintaining our commitment to quality and authenticity.
+            <p className="text-gray-600 mb-6">
+              The name &quot;Sisu&quot; embodies the Finnish spirit of determination, resilience, and strength - qualities that we bring to every sauna we build. Our commitment to quality and authenticity has helped us build a community of wellness enthusiasts who share our passion for traditional sauna culture.
             </p>
           </div>
         </div>

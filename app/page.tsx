@@ -6,19 +6,19 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const images = [
   {
-    src: '/sauna1.jpg',
+    src: '/6x8-outdoor-sauna-kit-sloped-roof-3-ft-overhang-post-beam-porch-mountain-snow.jpg',
     alt: 'Traditional Finnish Sauna',
     title: 'Experience Authentic Finnish Sauna Culture',
     description: 'Discover the perfect blend of tradition and modern wellness'
   },
   {
-    src: '/sauna2.jpg',
-    alt: 'Ice Bath Experience',
+    src: '/8x8-sauna-prefab-sauna-wooder-sauna-heater-windows.jpg',
+    alt: 'Premium Sauna Experience',
     title: 'Complete Your Wellness Journey',
     description: 'Pair your sauna with our premium ice bath experience'
   },
   {
-    src: '/sauna3.jpg',
+    src: '/6x7-outdoor-prefab-sauna-2ft-overhang-metal-roof-cocoa-brown-500x667.jpeg.avif',
     alt: 'Luxury Sauna Interior',
     title: 'Luxury Meets Tradition',
     description: 'Premium materials and expert craftsmanship'

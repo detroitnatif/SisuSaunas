@@ -15,7 +15,7 @@ const products = [
       'Capacity: 4-6 people'
     ],
     price: 'Starting at $8,999',
-    image: '/sauna1.jpg'
+    image: '/6x8-outdoor-sauna-kit-sloped-roof-3-ft-overhang-post-beam-porch-mountain-snow.jpg'
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const products = [
       'Capacity: 2-3 people'
     ],
     price: 'Starting at $4,999',
-    image: '/sauna2.jpg'
+    image: '/8x8-sauna-prefab-sauna-wooder-sauna-heater-windows.jpg'
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const products = [
       'Easy maintenance'
     ],
     price: 'Starting at $3,999',
-    image: '/icebath1.jpg'
+    image: '/6x7-outdoor-prefab-sauna-2ft-overhang-metal-roof-cocoa-brown-500x667.jpeg.avif'
   },
   {
     id: 4,
@@ -57,7 +57,7 @@ const products = [
       'Complete installation package'
     ],
     price: 'Starting at $12,999',
-    image: '/combo1.jpg'
+    image: '/6x8-outdoor-sauna-kit-sloped-roof-3-ft-overhang-post-beam-porch-mountain-snow.jpg'
   }
 ];
 
