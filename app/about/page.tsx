@@ -18,7 +18,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
           <div className="relative h-[400px]">
             <Image
-              src="/about1.jpg"
+              src="/6x8-outdoor-sauna-kit-sloped-roof-3-ft-overhang-post-beam-porch-mountain-snow.jpg"
               alt="Traditional Finnish Sauna"
               fill
               className="object-cover rounded-lg"
@@ -82,38 +82,35 @@ export default function About() {
             <div className="text-center">
               <div className="relative w-48 h-48 mx-auto mb-4">
                 <Image
-                  src="/team1.jpg"
+                  src="/8x8-sauna-prefab-sauna-wooder-sauna-heater-windows.jpg"
                   alt="Team Member"
                   fill
                   className="object-cover rounded-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold">Mika Hakala</h3>
-              <p className="text-gray-600">Founder & Master Craftsman</p>
+              <h3 className="text-xl font-semibold">Raymond Klimas</h3>
             </div>
             <div className="text-center">
               <div className="relative w-48 h-48 mx-auto mb-4">
                 <Image
-                  src="/team2.jpg"
+                  src="/6x7-outdoor-prefab-sauna-2ft-overhang-metal-roof-cocoa-brown-500x667.jpeg.avif"
                   alt="Team Member"
                   fill
                   className="object-cover rounded-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold">Anna Korhonen</h3>
-              <p className="text-gray-600">Design Director</p>
+              <h3 className="text-xl font-semibold">Brendan Klimas</h3>
             </div>
             <div className="text-center">
               <div className="relative w-48 h-48 mx-auto mb-4">
                 <Image
-                  src="/team3.jpg"
+                  src="/6x7-outdoor-prefab-sauna-2ft-overhang-metal-roof-cocoa-brown-500x667.jpeg.avif"
                   alt="Team Member"
                   fill
                   className="object-cover rounded-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold">Erik Nieminen</h3>
-              <p className="text-gray-600">Technical Director</p>
+              <h3 className="text-xl font-semibold">Tyler Klimas</h3>
             </div>
           </div>
         </div>
