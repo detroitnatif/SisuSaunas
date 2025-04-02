@@ -27,7 +27,7 @@ export default function About() {
           <div>
             <h2 className="text-3xl font-bold mb-6">Our Story</h2>
             <p className="text-gray-600 mb-4">
-              Founded by Finnish expatriates in 2010, Sisu Saunas was born from a passion for authentic sauna culture and a desire to share its benefits with the world. The word "sisu" represents the Finnish spirit of determination, resilience, and courage - qualities we bring to every sauna we build.
+              Founded by Finnish expatriates in 2010, Sisu Saunas was born from a passion for authentic sauna culture and a desire to share its benefits with the world. The word &quot;sisu&quot; represents the Finnish spirit of determination, resilience, and courage - qualities we bring to every sauna we build.
             </p>
             <p className="text-gray-600">
               What started as a small family business has grown into a leading provider of premium saunas and ice baths, serving customers across the country while maintaining our commitment to quality and authenticity.
@@ -69,7 +69,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Community</h3>
               <p className="text-gray-600">
-                We're committed to building a community of wellness enthusiasts and sharing the benefits of sauna culture.
+                We&apos;re committed to building a community of wellness enthusiasts and sharing the benefits of sauna culture.
               </p>
             </div>
           </div>

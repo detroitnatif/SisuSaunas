@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Link from "next/link";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -21,14 +22,14 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4">
             <div className="flex justify-between h-16">
               <div className="flex items-center">
-                <a href="/" className="text-2xl font-bold text-gray-800">Sisu Saunas</a>
+                <Link href="/" className="text-2xl font-bold text-gray-800">Sisu Saunas</Link>
               </div>
               <div className="flex items-center space-x-8">
-                <a href="/" className="text-gray-600 hover:text-gray-900">Home</a>
-                <a href="/about" className="text-gray-600 hover:text-gray-900">About</a>
-                <a href="/products" className="text-gray-600 hover:text-gray-900">Products</a>
-                <a href="/faq" className="text-gray-600 hover:text-gray-900">FAQ</a>
-                <a href="/contact" className="text-gray-600 hover:text-gray-900">Contact</a>
+                <Link href="/" className="text-gray-600 hover:text-gray-900">Home</Link>
+                <Link href="/about" className="text-gray-600 hover:text-gray-900">About</Link>
+                <Link href="/products" className="text-gray-600 hover:text-gray-900">Products</Link>
+                <Link href="/faq" className="text-gray-600 hover:text-gray-900">FAQ</Link>
+                <Link href="/contact" className="text-gray-600 hover:text-gray-900">Contact</Link>
               </div>
             </div>
           </div>
